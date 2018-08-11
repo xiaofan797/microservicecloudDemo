@@ -7,6 +7,7 @@
     <groupId>com.xiaofan.springcloud</groupId>
     <artifactId>microservicecloud</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <!--子模块-->
     <modules>
         <module>microservicecloud-api</module>
         <module>microservicecloud-provider-dept-8001</module>
